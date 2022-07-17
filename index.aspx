@@ -130,7 +130,6 @@
                 <h2>تقدير المحافظة لذوى القدرات الخاصة</h2>
             </div>
             <div class="row g-0" data-aos="fade-up" data-aos-delay="200">
-                <div class="col-xl-5 img-bg" style="background: url('assets/img/ashraf_award.jpg') center;"></div>
                 <div class="col-xl-7 slides  position-relative">
                     <div class="slides-1 swiper">
                         <div class="swiper-wrapper">
@@ -139,6 +138,7 @@
                                     <h3 id="news1" runat="server" class="mb-3"></h3>
                                     <p id="desc1" runat="server"></p>
                                 </div>
+                                <div class="col-xl-5 img-bg" id="img1" runat="server"></div>
                             </div>
                             <!-- End slide item -->
                             <div class="swiper-slide">
@@ -146,6 +146,7 @@
                                     <h3 id="news2" runat="server" class="mb-3"></h3>
                                     <p id="desc2" runat="server"></p>
                                 </div>
+                                <div class="col-xl-5 img-bg" id="img2" runat="server"></div>
                             </div>
                             <!-- End slide item -->
                             <div class="swiper-slide">
@@ -153,6 +154,7 @@
                                     <h3 id="news3" runat="server" class="mb-3"></h3>
                                     <p id="desc3" runat="server"></p>
                                 </div>
+                                <div class="col-xl-5 img-bg" id="img3" runat="server"></div>
                             </div>
                             <!-- End slide item -->
                             <div class="swiper-slide">
@@ -160,6 +162,7 @@
                                     <h3 id="news4" runat="server" class="mb-3"></h3>
                                     <p id="desc4" runat="server"></p>
                                 </div>
+                                <div class="col-xl-5 img-bg" id="img4" runat="server"></div>
                             </div>
                             <!-- End slide item -->
                             <div class="swiper-slide">
@@ -167,6 +170,7 @@
                                     <h3 id="news5" runat="server" class="mb-3"></h3>
                                     <p id="desc5" runat="server"></p>
                                 </div>
+                                <div class="col-xl-5 img-bg" id="img5" runat="server"></div>
                             </div>
                             <!-- End slide item -->
                         </div>
@@ -231,7 +235,7 @@
         <div class="container" data-aos="fade-up">
             <div class="row justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h3>انت متميز باختلافك متميز</h3>
+                    <h3>انت مميز باختلافك متميز</h3>
                     <p>
                         تلك الحياة لا تروق إلا للمحاربين، فإن لم تكن ذو إرادة فلا اسف عليك، قاتل لكي تكون ما تريد.<br />
                         لم تمنع الإعاقة أحد أن يصل، يمنعه فقط المحبطين وفقراء الأدب، لذا على كل ذو همة أن يسير دون أن يلتفت.<br />

@@ -33,6 +33,15 @@ namespace Qadreen
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl desc1;
 
         /// <summary>
+        /// img1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl img1;
+
+        /// <summary>
         /// news2 control.
         /// </summary>
         /// <remarks>
@@ -49,6 +58,15 @@ namespace Qadreen
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl desc2;
+
+        /// <summary>
+        /// img2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl img2;
 
         /// <summary>
         /// news3 control.
@@ -69,6 +87,15 @@ namespace Qadreen
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl desc3;
 
         /// <summary>
+        /// img3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl img3;
+
+        /// <summary>
         /// news4 control.
         /// </summary>
         /// <remarks>
@@ -87,6 +114,15 @@ namespace Qadreen
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl desc4;
 
         /// <summary>
+        /// img4 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl img4;
+
+        /// <summary>
         /// news5 control.
         /// </summary>
         /// <remarks>
@@ -103,5 +139,14 @@ namespace Qadreen
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl desc5;
+
+        /// <summary>
+        /// img5 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl img5;
     }
 }

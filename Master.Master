@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>قادرون</title>
+    <title>بطل الحكاية</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
     <!-- Favicons -->
@@ -29,13 +29,12 @@
     </asp:ContentPlaceHolder>
 </head>
 <body class="page-index">
-    <div>
         <!-- ======= Header ======= -->
         <header id="header" class="header d-flex align-items-center fixed-top">
             <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
                 <a href="index.aspx" class="logo d-flex align-items-center">
                     <img src="assets/img/aswan.png" class="img-fluid" alt="">
-                    <h1 class="d-flex align-items-center">قادرون</h1>
+                    <img src="assets/img/hero.png" class="img-fluid" alt="">
                 </a>
                 <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
                 <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
@@ -102,6 +101,5 @@
         <script src="assets/vendor/php-email-form/validate.js"></script>
         <!-- Template Main JS File -->
         <script src="assets/js/main.js"></script>
-    </div>
 </body>
 </html>
