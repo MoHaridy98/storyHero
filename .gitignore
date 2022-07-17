@@ -1,0 +1,7 @@
+﻿assets/*
+bin/*
+obj/*
+Properties/*
+*.config
+*.csproj
+*.user
