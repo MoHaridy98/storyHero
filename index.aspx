@@ -114,7 +114,7 @@
                         <p>الرئيس السيسي: "... واليوم نرى في أبنائنا من ذوي الهمم، ما يجعلنا نفتخر ونعتز بما وصلوا إليه، وما حققوه من إنجازات غير مسبوقة في مختلف المحافل والمناسبات مما يعكس القدرات الاستثنائية التي يتمتعون بها وإمكانياتهم غير المحدودة، على مجابهة التحديات وتجاوزها"</p>
                     </blockquote>
                     <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
-                        <a href="about.aspx" class="btn-get-started">اعرف اكثر</a>
+                        <a href="about.aspx" style="color: rgb(7, 43, 33); font-weight:900" class="btn-get-started">اعرف اكثر</a>
                         <a href="https://www.youtube.com/watch?v=c7_i6cxB-rA" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i>&nbsp;&nbsp;<span>كلمة الرئيس لذوي الهمم</span></a>
                     </div>
 

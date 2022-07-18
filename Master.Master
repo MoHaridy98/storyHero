@@ -10,8 +10,7 @@
     <meta content="" name="description">
     <meta content="" name="keywords">
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="assets/img/hero.png" rel="icon">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -29,77 +28,87 @@
     </asp:ContentPlaceHolder>
 </head>
 <body class="page-index">
-        <!-- ======= Header ======= -->
-        <header id="header" class="header d-flex align-items-center fixed-top">
-            <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-                <a href="index.aspx" class="logo d-flex align-items-center">
-                    <img src="assets/img/aswan.png" class="img-fluid" alt="">
-                    <img src="assets/img/hero.png" class="img-fluid" alt="">
-                </a>
-                <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-                <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-                <nav id="navbar" class="navbar">
-                    <ul>
-                        <li><a href="index.aspx" class="active">الرئيسية</a></li>
-                        <li><a href="about.aspx">حول التمكين</a></li>
-                        <li><a href="data.aspx">البيانات المفتوحة</a></li>                 
-                        <li><a href="contact.aspx">تواصل معنا</a></li>
-                    </ul>
-                </nav>
-                <!-- .navbar -->
-            </div>
-        </header>
-        <!-- End Header -->
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        </asp:ContentPlaceHolder>
-        <!-- ======= Footer ======= -->
-        <footer id="footer" class="footer">
-            <div class="footer-content">
-                <div class="container">
-                    <div class="row gy-4" style="color: #fff">
-                        <div class="col-lg-5 col-md-12 footer-info">
-                            <a href="index.aspx" class="logo d-flex align-items-center">
-                                <span>قادرون</span>
-                            </a>
-                            <p>السيسي: "الإخوة والأخوات.. أسر وأولياء أمور أصحاب الهمم،
-إن كلمات الشكر والتقدير، لا تفي بما قدمتموه، ومازلتم تقدمونه، من رعاية لأبنائنا من ذوي الهمم وأعلم أنكم تغمركم مشاعر الحب والحنان للقيام بهذا الدور وأود أن أؤكد لكم، أنكم تساهمون بقدر كبير وشأن عظيم، في بناء هذا الوطن، وتعززون بذلك من قــدرات بنــاء نهضـة أمتنــا واعلموا جيدًا، أنكم بهذا الدور العظيم، أديتم الرسالة، وعظمتم من شأن الأمانة، وتحملتم المسئولية تجاه واحدة من أهم النعم، التي منّ الله بها علينا وهي ثروتنا من بناتنا وأبنائنا."</p>
-                            <div class="social-links d-flex  mt-3">
-                                <%--<a href="#" class="facebook"><i class="bi bi-facebook"></i></a>--%>
-                            </div>
+    <!-- ======= Header ======= -->
+    <header id="header" class="header d-flex align-items-center fixed-top">
+        <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+            
+            
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a href="index.aspx" class="active">الرئيسية</a></li>
+                    <li><a href="about.aspx">حول التمكين</a></li>
+                    <li class="dropdown"><a href="#"><span>الانشطة والفعاليات</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                        <ul>
+                            <li><a href="#">المبادرات</a></li>
+                            <li><a href="#">الانشطة</a></li>
+                            <li><a href="#">الاخبار</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="contact.aspx">تواصل معنا</a></li>
+                </ul>
+            </nav>
+            <!-- .navbar -->
+            <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+            <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+            <a href="index.aspx" class="logo d-flex align-items-center">
+                <img src="assets/img/aswan.png" class="img-fluid" alt="">
+                <img src="assets/img/hero.png" style="width:100px; max-height:50px" class="img-fluid" alt="">
+            </a>
+        </div>
+    </header>
+    <!-- End Header -->
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    <!-- ======= Footer ======= -->
+    <footer id="footer" class="footer">
+        <div class="footer-content">
+            <div class="container">
+                <div class="row gy-4" style="color: #fff">
+                    <div class="col-lg-5 col-md-12 footer-info">
+                        <a href="index.aspx" class="logo d-flex align-items-center">
+                            <span>قادرون</span>
+                        </a>
+                        <p>
+                            السيسي: "الإخوة والأخوات.. أسر وأولياء أمور أصحاب الهمم،
+إن كلمات الشكر والتقدير، لا تفي بما قدمتموه، ومازلتم تقدمونه، من رعاية لأبنائنا من ذوي الهمم وأعلم أنكم تغمركم مشاعر الحب والحنان للقيام بهذا الدور وأود أن أؤكد لكم، أنكم تساهمون بقدر كبير وشأن عظيم، في بناء هذا الوطن، وتعززون بذلك من قــدرات بنــاء نهضـة أمتنــا واعلموا جيدًا، أنكم بهذا الدور العظيم، أديتم الرسالة، وعظمتم من شأن الأمانة، وتحملتم المسئولية تجاه واحدة من أهم النعم، التي منّ الله بها علينا وهي ثروتنا من بناتنا وأبنائنا."
+                        </p>
+                        <div class="social-links d-flex  mt-3">
+                            <%--<a href="#" class="facebook"><i class="bi bi-facebook"></i></a>--%>
                         </div>
-                        <div class="col-lg-3 col-6 footer-links">
-                            <h4>روابط مهمة</h4>
-                            <ul>
-                                <li><i class="bi bi-dash"></i><a href="https://www.moss.gov.eg/ar-eg/Pages/default.aspx" target="_blank">وزارة التضامن الاجتماعي</a></li>
-                                <li><i class="bi bi-dash"></i><a href="#"></a></li>
-                                <li><i class="bi bi-dash"></i><a href="#"></a></li>
-                                <li><i class="bi bi-dash"></i><a href="#"></a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-3 col-6 footer-links">
-                            <h4>روابط المحافظة</h4>
-                            <ul>
-                                <li><i class="bi bi-dash"></i><a href="https://aswan.gov.eg/">بوابة اسوان</a></li>
-                                <li><i class="bi bi-dash"></i><a href="http://tec.aswancity.gov.eg/">المركز التكنولوجي</a></li>
-                                <li><i class="bi bi-dash"></i><a href="#">ابنة الملك</a></li>
-                            </ul>
-                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 footer-links">
+                        <h4>روابط مهمة</h4>
+                        <ul>
+                            <li><i class="bi bi-dash"></i><a href="https://www.moss.gov.eg/ar-eg/Pages/default.aspx" target="_blank">وزارة التضامن الاجتماعي</a></li>
+                            <li><i class="bi bi-dash"></i><a href="#"></a></li>
+                            <li><i class="bi bi-dash"></i><a href="#"></a></li>
+                            <li><i class="bi bi-dash"></i><a href="#"></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-6 footer-links">
+                        <h4>روابط المحافظة</h4>
+                        <ul>
+                            <li><i class="bi bi-dash"></i><a href="https://aswan.gov.eg/">بوابة اسوان</a></li>
+                            <li><i class="bi bi-dash"></i><a href="http://tec.aswancity.gov.eg/">المركز التكنولوجي</a></li>
+                            <li><i class="bi bi-dash"></i><a href="#">ابنة الملك</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
-        </footer>
-        <!-- End Footer -->
-        <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+        </div>
+    </footer>
+    <!-- End Footer -->
+    <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-        <div id="preloader"></div>
-        <!-- Vendor JS Files -->
-        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/vendor/aos/aos.js"></script>
-        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-        <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-        <script src="assets/vendor/php-email-form/validate.js"></script>
-        <!-- Template Main JS File -->
-        <script src="assets/js/main.js"></script>
+    <div id="preloader"></div>
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
 </body>
 </html>
