@@ -1,0 +1,118 @@
+D:\Qadreen\Qadreen\bin\Qadreen.dll.config
+D:\Qadreen\Qadreen\bin\Qadreen.dll
+D:\Qadreen\Qadreen\bin\Qadreen.pdb
+D:\Qadreen\Qadreen\bin\roslyn\csc.exe
+D:\Qadreen\Qadreen\bin\roslyn\csc.exe.config
+D:\Qadreen\Qadreen\bin\roslyn\csc.rsp
+D:\Qadreen\Qadreen\bin\roslyn\csi.exe
+D:\Qadreen\Qadreen\bin\roslyn\csi.exe.config
+D:\Qadreen\Qadreen\bin\roslyn\csi.rsp
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Qadreen\Qadreen\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.AppContext.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Collections.Immutable.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Console.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Globalization.Calendars.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.IO.Compression.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.IO.FileSystem.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Net.Http.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Net.Sockets.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Reflection.Metadata.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.ValueTuple.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Xml.XPath.dll
+D:\Qadreen\Qadreen\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Qadreen\Qadreen\bin\roslyn\vbc.exe
+D:\Qadreen\Qadreen\bin\roslyn\vbc.exe.config
+D:\Qadreen\Qadreen\bin\roslyn\vbc.rsp
+D:\Qadreen\Qadreen\bin\roslyn\VBCSCompiler.exe
+D:\Qadreen\Qadreen\bin\roslyn\VBCSCompiler.exe.config
+D:\Qadreen\Qadreen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Qadreen\Qadreen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Qadreen\Qadreen\obj\Release\Qadreen.csproj.AssemblyReference.cache
+D:\Qadreen\Qadreen\obj\Release\Qadreen.csproj.CoreCompileInputs.cache
+D:\Qadreen\Qadreen\obj\Release\Qadreen.csproj.CopyComplete
+D:\Qadreen\Qadreen\obj\Release\Qadreen.dll
+D:\Qadreen\Qadreen\obj\Release\Qadreen.pdb
+D:\asp.net sites\Qadreen\Qadreen\bin\Qadreen.dll.config
+D:\asp.net sites\Qadreen\Qadreen\bin\Qadreen.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\Qadreen.pdb
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\csc.exe
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\csc.exe.config
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\csc.rsp
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\csi.exe
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\csi.exe.config
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\csi.rsp
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.Managed.Core.targets
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.AppContext.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Collections.Immutable.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Console.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Globalization.Calendars.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.IO.Compression.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.IO.FileSystem.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Net.Http.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Net.Sockets.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Reflection.Metadata.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.ValueTuple.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Xml.XmlDocument.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Xml.XPath.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\vbc.exe
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\vbc.exe.config
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\vbc.rsp
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\VBCSCompiler.exe
+D:\asp.net sites\Qadreen\Qadreen\bin\roslyn\VBCSCompiler.exe.config
+D:\asp.net sites\Qadreen\Qadreen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\asp.net sites\Qadreen\Qadreen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\asp.net sites\Qadreen\Qadreen\obj\Release\Qadreen.csproj.AssemblyReference.cache
+D:\asp.net sites\Qadreen\Qadreen\obj\Release\Qadreen.csproj.CoreCompileInputs.cache
+D:\asp.net sites\Qadreen\Qadreen\obj\Release\Qadreen.csproj.CopyComplete
+D:\asp.net sites\Qadreen\Qadreen\obj\Release\Qadreen.dll
+D:\asp.net sites\Qadreen\Qadreen\obj\Release\Qadreen.pdb
