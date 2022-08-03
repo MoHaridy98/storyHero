@@ -37,13 +37,13 @@
                 <ul>
                     <li><a href="index.aspx" class="active">الرئيسية</a></li>
                     <li><a href="about.aspx">حول التمكين</a></li>
-                    <li class="dropdown"><a href="#"><span>الانشطة والفعاليات</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+                    <!--<li class="dropdown"><a href="#"><span>الانشطة والفعاليات</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                         <ul>
                             <li><a href="#">المبادرات</a></li>
                             <li><a href="#">الانشطة</a></li>
-                            <li><a href="#">الاخبار</a></li>
                         </ul>
-                    </li>
+                    </li>-->
+                    <li><a href="activity.aspx">الانشطة والفعاليات</a></li>
                     <li><a href="contact.aspx">تواصل معنا</a></li>
                 </ul>
             </nav>
@@ -66,7 +66,7 @@
                 <div class="row gy-4" style="color: #fff">
                     <div class="col-lg-5 col-md-12 footer-info">
                         <a href="index.aspx" class="logo d-flex align-items-center">
-                            <span>قادرون</span>
+                            <span>بطل الحكاية</span>
                         </a>
                         <p>
                             السيسي: "الإخوة والأخوات.. أسر وأولياء أمور أصحاب الهمم،
@@ -80,9 +80,6 @@
                         <h4>روابط مهمة</h4>
                         <ul>
                             <li><i class="bi bi-dash"></i><a href="https://www.moss.gov.eg/ar-eg/Pages/default.aspx" target="_blank">وزارة التضامن الاجتماعي</a></li>
-                            <li><i class="bi bi-dash"></i><a href="#"></a></li>
-                            <li><i class="bi bi-dash"></i><a href="#"></a></li>
-                            <li><i class="bi bi-dash"></i><a href="#"></a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-6 footer-links">
@@ -90,7 +87,7 @@
                         <ul>
                             <li><i class="bi bi-dash"></i><a href="https://aswan.gov.eg/">بوابة اسوان</a></li>
                             <li><i class="bi bi-dash"></i><a href="http://tec.aswancity.gov.eg/">المركز التكنولوجي</a></li>
-                            <li><i class="bi bi-dash"></i><a href="#">ابنة الملك</a></li>
+                            <li><i class="bi bi-dash"></i><a href="http://kda.aswan.gov.eg/">ابنة الملك</a></li>
                         </ul>
                     </div>
                 </div>

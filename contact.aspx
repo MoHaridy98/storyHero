@@ -42,7 +42,7 @@
                         <i class="bi bi-phone flex-shrink-0"></i>&nbsp;&nbsp;
                         <div>
                             <h4>الهاتف :</h4>
-                            <p>097 2483002</p>
+                            <p>097-2483002</p>
                         </div>
                     </div>
                     <!-- End Info Item -->
@@ -64,7 +64,7 @@
                             <asp:TextBox class="form-control" TextMode="MultiLine" rows="5" name="message" ID="message" placeholder="الرسالة" runat="server" required></asp:TextBox>
                         </div>
                         <div class="form-group mt-4 text-center">
-                            <asp:Button ID="send_message" class="btn btn-success" runat="server" Text="ارسال" />
+                            <asp:Button ID="send_message" class="btn btn-success" runat="server" Text="ارسال" OnClick="send_message_Click" />
                         </div>
                     </form>
                 </div>
